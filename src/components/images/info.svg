@@ -1,3 +1,1 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle cx="32" cy="32" r="30" stroke="#FF6500" stroke-width="4"/><text font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-size="44.444" font-style="italic" font-weight="bold" fill="#FF6500">
-                    <tspan x="25.326" y="45">i</tspan>
-                </text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><g fill="none" fill-rule="evenodd"><circle cx="32" cy="32" r="30" stroke="#FF6500" stroke-width="4"/><text fill="#FF6500" font-family="TimesNewRomanPS-BoldItalicMT, Times New Roman" font-size="44.444" font-style="italic" font-weight="bold"><tspan x="25.326" y="45">i</tspan></text></g></svg>
